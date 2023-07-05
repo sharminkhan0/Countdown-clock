@@ -1,4 +1,4 @@
-#📗 Table of Contents
+# 📗 Table of Contents
 📖 About the Project
 🛠 Built With
 Tech Stack
