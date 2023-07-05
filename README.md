@@ -1,23 +1,23 @@
 # 📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-https://sharminkhan0.github.io/Countdown-clock/
-💻 Getting Started
-Prerequisites
-Setup
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-📝 License
+ 📖 About the Project
+ 🛠 Built With
+ Tech Stack
+ Key Features
+ 🚀 Live Demo
+ https://sharminkhan0.github.io/Countdown-clock/
+ 💻 Getting Started
+ Prerequisites
+ Setup
+ Install
+ Usage
+ Run tests
+ Deployment
+ 👥 Authors
+ 🔭 Future Features
+ 🤝 Contributing
+ ⭐️ Show your support
+ 🙏 Acknowledgements
+ 📝 License
 📖 Countdown-Clock Project!
 Countdown-Clock Project is designed to provide information and remaining time to days, hours, minute and seconds, showcasing the up comming new year. Built with HTML, CSS, and JavaScript. The main objective of this project is to start practicing the professional way to work with CSS HTML and JavaScript in responsive design, using the basic structure, data query and all following a template in Google. Countdown-Clock Project
 
