@@ -147,16 +147,42 @@ span:hover {
      max-width: 150px;
     }
 
-  .title {
+  .title, 
+  .year {
      font-size: 1.5rem; 
      line-height: 3.5rem;
      margin: 10px 0px;
     }
 
-  .title span {
+  .year span {
      font-size: 2rem;
      letter-spacing: 1rem;
     }
 
 }
 
+
+@media (max-width:368px) {
+    
+  .countdown-container {
+     flex-wrap: wrap;
+    }
+
+  .countdown-container > div {
+     margin: 0.5rem auto;
+     max-width: 150px;
+    }
+
+  .title, 
+  .year {
+     font-size: 0.85rem; 
+     line-height: 1.5rem;
+     margin: 5px 0px;
+    }
+
+  .year span {
+     font-size: 2rem;
+     letter-spacing: 0.5rem;
+    }
+
+}
