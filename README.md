@@ -4,6 +4,7 @@
 Tech Stack
 Key Features
 🚀 Live Demo
+https://sharminkhan0.github.io/Countdown-clock/
 💻 Getting Started
 Prerequisites
 Setup
@@ -31,6 +32,7 @@ Responsive for different devices
 
 🚀 Live Demo
 Live Demo Link
+https://sharminkhan0.github.io/Countdown-clock/
 (back to top)
 
 💻 Getting Started
