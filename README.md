@@ -1,11 +1,11 @@
 # 📗 Table of Contents
  📖 About the Project
- 🛠 Built With
- Tech Stack
- Key Features
- 🚀 Live Demo
+  🛠 Built With
+   Tech Stack
+   Key Features
+ # 🚀 Live Demo
  https://sharminkhan0.github.io/Countdown-clock/
- 💻 Getting Started
+# 💻 Getting Started
  Prerequisites
  Setup
  Install
